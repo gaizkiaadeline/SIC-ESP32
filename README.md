@@ -1,4 +1,6 @@
-SKILVUL Tech Assignment kelompok
+SKILVUL Samsung Innovation Campus
+
+Tech Assignment kelompok
 
 Buatlah sebuah rangkaian pada ESP32 menggunakan ESP32 kit yang terdiri dari beberapa kondisi berikut
 1. .ino files untuk mengambil 1 buah data sensor dan mengirimkannya ke local server melalui HTTP REST API ( POST Method )
